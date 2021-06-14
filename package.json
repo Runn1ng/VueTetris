@@ -1,0 +1,25 @@
+{
+  "name": "vuetetris",
+  "version": "1.0.0",
+  "description": "Project for PP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runn1ng/VueTetris.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Runn1ng/VueTetris/issues"
+  },
+  "homepage": "https://github.com/Runn1ng/VueTetris#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "less-loader": "^9.1.0",
+    "sass-loader": "^10",
+    "vue": "^2.6.12"
+  }
+}
